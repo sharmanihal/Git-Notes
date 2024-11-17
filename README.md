@@ -1,1 +1,1 @@
-Your one stop shop for everthing related to git !!
+Your one-stop shop for everything related to git !! :-)
